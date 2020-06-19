@@ -1,0 +1,2 @@
+dofile ("relogio.lua") 
+
